@@ -13,4 +13,12 @@ https://github.com/RicardPI/Practica-2-Heart-Attack-Analysis-/tree/main/data
 
 ## EDA
 
-En la direcció especificada, s'hi pot trobar un .html i un notebook de l'EDA realitzat per aquesta pràctica.
+En la direcció especificada, s'hi pot trobar un .html i un pdf de l'EDA realitzat per aquesta pràctica.
+
+https://github.com/RicardPI/Practica-2-Heart-Attack-Analysis-/tree/main/pdf
+
+## Codi
+
+En la direcció especificada, s'hi troba el jupyter notebook amb que s'ha fet la pràctica
+
+https://github.com/RicardPI/Practica-2-Heart-Attack-Analysis-/tree/main/src
