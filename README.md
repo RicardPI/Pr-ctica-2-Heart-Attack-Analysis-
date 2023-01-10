@@ -26,4 +26,11 @@ https://github.com/RicardPI/Practica-2-Heart-Attack-Analysis-/tree/main/src
 
 ## Llicència
 
-El contingut d'aquest projecte es troba sota la llicència
+El contingut d'aquest projecte es troba sota la llicència:
+
+GNU General Public License v3.0
+
+Per a més informació:
+
+https://github.com/RicardPI/Practica-2-Heart-Attack-Analysis-/tree/main/license
+
