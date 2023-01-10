@@ -32,5 +32,5 @@ GNU General Public License v3.0
 
 Per a més informació:
 
-https://github.com/RicardPI/Practica-2-Heart-Attack-Analysis-/tree/main/license
+[https://github.com/RicardPI/Practica-2-Heart-Attack-Analysis-/tree/main/license](https://github.com/RicardPI/Practica-2-Heart-Attack-Analysis-/blob/main/LICENSE)
 
