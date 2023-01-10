@@ -9,6 +9,7 @@ Ricard Piqué Inglada, ricardpique@gmail.com
 ## Dataset
 
 Es pot trobar el dataset en la següent direcció:
+
 https://github.com/RicardPI/Practica-2-Heart-Attack-Analysis-/tree/main/data
 
 ## EDA
@@ -22,3 +23,7 @@ https://github.com/RicardPI/Practica-2-Heart-Attack-Analysis-/tree/main/pdf
 En la direcció especificada, s'hi troba el jupyter notebook amb que s'ha fet la pràctica
 
 https://github.com/RicardPI/Practica-2-Heart-Attack-Analysis-/tree/main/src
+
+## Llicència
+
+El contingut d'aquest projecte es troba sota la llicència
