@@ -1,9 +1,16 @@
 # Pràctica-2-Heart-Attack-Analysis-
-Es tracta de la pràctica 2 de l'assignatura Tipologia i cicle de vida de les dades
+Es tracta de la pràctica 2 de l'assignatura Tipologia i cicle de vida de les dades.
 
-# Autor
+En aquesta pràctica, es fa un EDA de les dades d'uns pacients amb i sense malaltia de cor.
+
+## Autor
 Ricard Piqué Inglada, ricardpique@gmail.com
 
 ## Dataset
 
 Es pot trobar el dataset en la següent direcció:
+https://github.com/RicardPI/Practica-2-Heart-Attack-Analysis-/tree/main/data
+
+## EDA
+
+En la direcció especificada, s'hi pot trobar un .html i un notebook de l'EDA realitzat per aquesta pràctica.
